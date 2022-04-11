@@ -8,8 +8,12 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
+    "cookie-parser": "1.4.6",
+    "debug": "4.3.4",
+    "express": "4.17.3",
     "node-bigcommerce": "4.1.0",
-    "parcel-bundler": "^1.6.1"
+    "server": "1.0.37",
+    "stencil": "0.0.5"
   },
   "devDependencies": {
     "@babel/core": "7.2.0",
